@@ -1,5 +1,5 @@
 <h1 align="center">Hey THERE 👋,It's ME I'm RK Sarkar</h1>
-<h3 align="center">🚀 "Exploring code😃✨, building ideas, and making tech magic!" 💡 "Innovating, coding, and constantly learning!" 🔧 "Fixing bugs, breaking limits, and pushing boundaries!"</h3>
+<h3 align="center">🚀 "Innovating, coding, and constantly 💡learning!" 🔧 "Fixing bugs, breaking limits, and pushing boundaries!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404codeerror&label=Profile%20views&color=0e75b6&style=flat" alt="404codeerror" /> </p>
 
